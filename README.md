@@ -1,18 +1,15 @@
-# HYPM
+#Hyper Media Project 2016
+###Live demo:
+- [site](http://hyp-telecom.ml/pages/home.html) - Hosting Digital Ocean
+- [site](http://hyptelecom16.altervista.org/pages/home.html) - Hosting Altervista
 
-Live pages:
-+ 
+###Technologies:
++ [JQuery](https://jquery.com/)
++ [Boostrap](http://getbootstrap.com/)
++ [PHP](http://php.net/)
++ [HTML5](http://www.w3schools.com/html/html5_intro.asp)
++ [CSS3](http://www.w3schools.com/css/css3_intro.asp)
 
-External libraries & tools used:
-+ [jQuery](https://jquery.com/)
-+ [Bootstrap](http://getbootstrap.com/)
-+ [Alloyui](http://alloyui.com/) for the interactive schedule
-+ [Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)
- + Bootstrap Image Gallery is an extension to [blueimp Gallery](https://blueimp.github.io/Gallery/), a touch-enabled, responsive and customizable image & video gallery.
-+ [Start-Bootstrap-Thumbnail-Gallery](https://github.com/IronSummitMedia/startbootstrap-thumbnail-gallery)
- + Thumbnail Gallery is  is a responsive thumbnail grid template for Bootstrap created by Start Bootstrap.
-+ [AdobePhoneGap Build](https://build.phonegap.com/) 
-+ [Twitter API PHP wrapper](https://github.com/J7mbo/twitter-api-php)
-
-Resources:
-+ 
+###Hosting:
++ [Digital Ocean](https://www.digitalocean.com/)
++ [Altervista](http://it.altervista.org/)
